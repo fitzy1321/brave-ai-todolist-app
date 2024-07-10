@@ -17,7 +17,7 @@ pnpm is faster than npm, and I like new shinies ✨
 npm install -g pnpm
 
 pnpm create vite brave-ai-todolist-app
-# selected React and JavaScript in vite prompt>
+# selected React and JavaScript + SWC in vite prompt>
 ```
 
 ## Running app locally
