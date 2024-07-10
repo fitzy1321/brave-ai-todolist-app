@@ -4,6 +4,10 @@
 
 I was surfing the web, and realized Brave Search has an llm. So I asked it to make a React TodoList App.
 
+So I entered this prompt into the Brave AI `generate react app, todo list app with checkbox and saves items to localStorage`.
+
+
+
 ### pnpm
 
 pnpm is faster than npm
